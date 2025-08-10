@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-base-08/java-base-08.iml" filepath="$PROJECT_DIR$/java-base-08/java-base-08.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-base-restudy/java-base-restudy.iml" filepath="$PROJECT_DIR$/java-base-restudy/java-base-restudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myJava.iml" filepath="$PROJECT_DIR$/.idea/myJava.iml" />
     </modules>
